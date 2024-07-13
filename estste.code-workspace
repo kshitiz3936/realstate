@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/kshitiz3936/estste"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu",
+	"settings": {}
+}
